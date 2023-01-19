@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background-image: url("background.jpg");
+
+}
+
+b{
+    color: blue;
+    font-family: 'Arvo', serif;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: large;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+}
+#take_snapshot{
+    background:linear-gradient(red,orange,yellow);
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
